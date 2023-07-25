@@ -1,7 +1,6 @@
 ---
-title: "MuhammadAhmadSajid.github.io"
+title: "Muhammad Ahmad Sajid"
+subtitle: "Software Engineer, Rakuten"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi!
