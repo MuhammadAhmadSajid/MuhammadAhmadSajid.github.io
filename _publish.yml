@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: "056597fc-d36e-4759-8e15-aaeaee273396"
+      url: "https://soft-bublanina-0a2c8b.netlify.app"
