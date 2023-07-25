@@ -10,15 +10,11 @@ website:
     left:
       - text: "Home"
         file: index.qmd
-      - text: "Projects"
-        file: projects.qmd
-      - text: "About me"
-        file: about.qmd
+      - projects.qmd
+      - about.qmd
     tools:
       - icon: github
         href: https://github.com/MuhammadAhmadSajid
-      - icon: linkedin
-        href: https://linkedin.com
 
 format:
   html:
