@@ -10,10 +10,18 @@ website:
     left:
       - text: "Home"
         file: index.qmd
-      - about.qmd
+      - text: "Projects"
+        file: projects.qmd
+      - text: "About me"
+        file: about.qmd
+    tools:
+      - icon: github
+        href: https://github.com/MuhammadAhmadSajid
+      - icon: linkedin
+        href: https://linkedin.com
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    fontsize: 1.1em
