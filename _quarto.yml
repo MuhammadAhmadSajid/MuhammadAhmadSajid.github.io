@@ -23,3 +23,6 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    header-includes: |
+      <link rel="stylesheet" media="screen" href="https://fonts.googleapis.com/css?family=EB Garamond">
+mainfont: EB Garamond
